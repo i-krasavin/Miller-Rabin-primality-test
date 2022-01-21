@@ -57,4 +57,4 @@ function exp(target: number, index: number, module: number) {
     return target;
 }
 
-console.log(isPossiblyPrime(99961, 1) ? 'It\'s a prime number' : 'It\'s a composite number');
+console.log(isPossiblyPrime(99961, 1) ? 'It\'s a possibly prime number' : 'It\'s a composite number');
